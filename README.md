@@ -1,33 +1,35 @@
 # Career-Opportunities
-Current opportunities for developers - onsite only
+Current opportunities for developers - onsite and remote
 
-https://jobs.crelate.com/portal/labineassociates/job/b4utqwj5z4r-493550/Full_Stack_Software_Engineer_for_Geospatial_targeting_Data_Science_Company_in_San_Francisco
+https://jobs.crelate.com/portal/labineassociates/job/cyaj8wp9az7y1p1ftoket6idpo
 
+We are an intrinsically motivated team that works without ego, is constantly learning, and solves real problems for the cannabis industry. As a Senior Backend Engineer, you will work closely with our product team and with our customers to shape and deliver new features in all areas of the product. You will take ownership over key features that will have our customers writing you a personal “thank you” email like this one:
 
-We are looking for a Full Stack Software Engineer with a passion for developing and running scalable, large scale distributed systems. Our software framework ingests and enriches 6 billion daily location points, and derive insights for travel marketers. Our large algorithms analyze 2 trillion data points and unmatched in the travel industry.
+"I can’t praise this company enough, it’s head and shoulders above any platform I’ve encountered to date. Thank you for your persistence and for providing us with the right tools."
 
-As a Full Stack Senior Software Engineer you will be responsible for maintaining and developing a facing product (Client Portal) that provides reporting on our client’s campaign as well as geospatial insights. The role also involves a certain degree of product management.
+This is a full-time remote engineering role, but we are based in Oakland if you want to spend some time in person with some of the team.
 
-Responsibilities:
-developing, maintaining and enhancing our client facing analytical platform (Client Portal)
-building and extending our automation tools for infrastructure provisioning, auto-scaling, code deployment and failover
-improve our infrastructure monitoring, alerting and reporting
-building modern automation tools provisioning on new infrastructure components
-analyzing and improve efficiency, scalability and stability of various system resources
-evaluating and implementing new technologies
-establishing production best practices for the entire engineering team
-maintaining and enhancing our internal system as needed
-help recruit and train future engineering candidates
-guiding and mentoring other junior engineers to define elegant software solutions, to improve performance and scalability requirements
-work with our sales and marketing team to define product requirements
+You will: 
+Design, build and maintain the API and infrastructure that powers our company.
+Improve engineering standards, tooling, and processes.
+Debug production issues across the entire stack.
+Work on tools and services to proactively improve the quality and reliability of our production API.
+Develop simple and extensible data models for complex supply chain workflows, with a strong emphasis on data integrity.
+Identify and fix security concerns.
+Features you might work on
 
-Required Qualifications:
-BS or MS in Computer Science or equivalent work experience
-Expert level knowledge of JavaScript and modern JavaScript frameworks (Angular, ReactJS)
-Experience with D3.js or other JavaScript charting libraries
-5+ years experience with Rails or other MVC frameworks (Rails preferred)
-Experience with analytical databases (Vertica, RedShift) is a plus
-Knowledge of Python and/or another scripting language is required
-Some experience working in AWS / GCP or other cloud development background, with CI/CD
-Excellent problem solving, critical thinking, and communication skills
-Outstanding communication and interpersonal skills
+Improve our order fulfillment workflow that manages the entire distribution process from sale to the final delivery. This could include a mobile experience with barcode scanning and dashboard views of where orders are at in the process.
+Establish the mobile experience for delivery drivers to help distributors manage dispatch more efficiently and track deliveries in real-time.
+Integrations with numerous 3rd party services including billing, marketplaces, GPS tracking, calendar, data analytics.
+Develop a robust data model for historical inventory tracking and valuation.
+Your Experience
+
+Ability to express complex involved logic through clean easy to understand code
+Ability to add new logic to a system with many rules in a cohesive way
+Ability to model new data in a database with a lot of different models
+Ability to interact with stakeholders to raise concerns about potentially harming aspects of a feature
+Experience writing high-quality code with effective test coverage. We work in Elixir (with Phoenix and Ecto), but languages can be learned; we care much more about general engineering skills than knowledge of any particular language or framework.
+Significant experience with SQL databases (especially Postgres).
+Strong written communication skills.
+Experience developing a complex SaaS product is a plus!
+Worked remotely, ideally on a distributed team is a plus! We emphasize thoughtful asynchronous communication and deep work over frequent interruptions.
